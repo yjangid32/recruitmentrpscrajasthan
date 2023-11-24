@@ -1,0 +1,49 @@
+.bgcolour
+{
+	width: 100%;
+	height: 84.3vh;
+	background:#91C825;
+	
+
+.bodyheader
+{
+	width: 100%;
+	height: 122px;
+	margin-right: 20px;
+	
+}
+
+	
+.Stbg
+	{
+		width: 98.8%;
+		height: 70vh;
+		background: #FFFFFF;
+		margin-left: 1.5px;
+	}
+	
+.bodyfooter
+	{
+	width: 100%;
+	height: 152px;
+    background:url("image/webssfooter6757.png");
+  margin-top: 5px;
+
+	}
+	
+	
+.form
+	{
+		width: auto;
+		height: auto;
+		margin-left: 50vh;
+	}
+	
+.form2
+	{
+		width: auto;
+		height: auto;
+		margin-left: 40vh;
+		color: #FF0004;
+	}
+	
